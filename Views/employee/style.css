@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.footer-color{
+	background-color: #e8e8e8;;
+}
+.footer-row{
+	padding-top: 10px;
+	justify-content: space-between;
+	font-weight: bold;
+}
+
+.footer-title{
+	text-decoration: underline;
+}
+.footer-title-sub{
+	list-style: none;
+	padding: 10px 0;
+
+}
+.footer-color-2{
+	background-color: white;
+}
+.footer-text{
+	text-align: center;
+}
+.sub{
+	padding: 5px 0;
+	color: #1468b7;
+	font-size: 16px;
+}
+.icon{
+	padding-top: 10px;
+}
+.icon-fb{
+	font-size: 30px;
+}
+.icon-ig{
+	font-size: 30px;
+	color: #e5466b ;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.icon-yt{
+	font-size: 30px;
+	color: red;
+	padding-right: 10px;
+}
+.icon-wa{
+	font-size: 30px;
+	color: #49c958;
+}
+
+.chinh-sach{
+	padding: 5px 0;
+}
+.chinh-sach-sub{
+	color: #1468b7;
+	font-size: 16px;
+}
+.ho-tro{
+	padding: 5px 0;
+}
+.ho-tro-sub{
+	color: #1468b7;
+	font-size: 16px;
+}
